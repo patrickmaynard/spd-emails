@@ -1,81 +1,110 @@
 MIME-Version: 1.0
-Date: Wed, 16 Oct 2024 16:21:35 +0200
-References: <x8uLmrbVQTKl3LxoHZhgqg@geopod-ismtpd-20> <CAAd5qxo3W6GDshLb4RqrRNPqrwe32aD9hXfJbKZBVhjjiFmd+Q@mail.gmail.com> <CAAd5qxr17EW6iOTY9PZaF6fKaOjxw7kQq_3NtrPYM3s18GNPKA@mail.gmail.com> <CO6PR09MB7846F9719C3C324991F9782B980E2@CO6PR09MB7846.namprd09.prod.outlook.com> <CAAd5qxo9VGkXztDg5r2FS3ZxD1vn4+szFSrYPpnYAZ-rihy6sg@mail.gmail.com> <CO6PR09MB78461201C11680BFD6CF2B36980E2@CO6PR09MB7846.namprd09.prod.outlook.com> <CAAd5qxo-EoMM4TUHKWFY0RNQEGgHVGZ+mdq72E72frrmboMNYg@mail.gmail.com> <CAAd5qxoqGAkt+HQ1JUgmbiMDvmtqpPHx+dQLsd5ttYcePP2QeQ@mail.gmail.com> <CAAd5qxpgR77Nsyidq1ahg5Y0T0iYfLfQf6=LCWSnUBDTRDM+rQ@mail.gmail.com> <CAAd5qxoUkR7XESmuQW0o2yQAEx5jcr1iaUCGT+_18JUSqGiAEg@mail.gmail.com> <CAAd5qxo3wtGPx9TWHqahgetdOtczeSoMsvvHSJm9J-JPW6_4oA@mail.gmail.com> <CAAd5qxrLFZoHJ_DSO1yNvS9KKnNz9qetv-sjzWwYLvmAafWTxg@mail.gmail.com>
-In-Reply-To: <CAAd5qxrLFZoHJ_DSO1yNvS9KKnNz9qetv-sjzWwYLvmAafWTxg@mail.gmail.com>
-Message-ID: <CAAd5qxrpizR7nW7=tJOfGafg41uu+epPLT=ocfVpttd57P7xsw@mail.gmail.com>
+Date: Wed, 22 Jan 2025 21:18:50 +0100
+References: <x8uLmrbVQTKl3LxoHZhgqg@geopod-ismtpd-20> <CAAd5qxo3W6GDshLb4RqrRNPqrwe32aD9hXfJbKZBVhjjiFmd+Q@mail.<redacted>> <CAAd5qxr17EW6iOTY9PZaF6fKaOjxw7kQq_3NtrPYM3s18GNPKA@mail.<redacted>> <CO6PR09MB7846F9719C3C324991F9782B980E2@CO6PR09MB7846.namprd09.prod.outlook.com> <CAAd5qxo9VGkXztDg5r2FS3ZxD1vn4+szFSrYPpnYAZ-rihy6sg@mail.<redacted>> <CO6PR09MB78461201C11680BFD6CF2B36980E2@CO6PR09MB7846.namprd09.prod.outlook.com> <CAAd5qxo-EoMM4TUHKWFY0RNQEGgHVGZ+mdq72E72frrmboMNYg@mail.<redacted>> <CAAd5qxoqGAkt+HQ1JUgmbiMDvmtqpPHx+dQLsd5ttYcePP2QeQ@mail.<redacted>> <CAAd5qxpgR77Nsyidq1ahg5Y0T0iYfLfQf6=LCWSnUBDTRDM+rQ@mail.<redacted>> <CAAd5qxoUkR7XESmuQW0o2yQAEx5jcr1iaUCGT+_18JUSqGiAEg@mail.<redacted>> <CAAd5qxo3wtGPx9TWHqahgetdOtczeSoMsvvHSJm9J-JPW6_4oA@mail.<redacted>> <CAAd5qxrLFZoHJ_DSO1yNvS9KKnNz9qetv-sjzWwYLvmAafWTxg@mail.<redacted>> <CAAd5qxrpizR7nW7=tJOfGafg41uu+epPLT=ocfVpttd57P7xsw@mail.<redacted>> <CAAd5qxptkHFpDQ-Yod+qkyTkRRgtJE2O7w0SRGg5unRMG1K55Q@mail.<redacted>> <CAAd5qxqiuhqUDNFj2Jgi9TegrvPYffJ+3nw10k09SJnMW1-fSQ@mail.<redacted>> <CAAd5qxpfwUevRBy2nU4nJ1u45-aJaTTxBnNh=LAP6Ep5hE5C_g@mail.<redacted>>
+In-Reply-To: <CAAd5qxpfwUevRBy2nU4nJ1u45-aJaTTxBnNh=LAP6Ep5hE5C_g@mail.<redacted>>
+Message-ID: <CAAd5qxpQq0VCtWjDTj0SXbsD7b3z0uMjBVF9EPA3A527KD+8ag@mail.<redacted>>
 Subject: Re: Public Records Center - Police :: P165490-123123
-From: Patrick Maynard <redacted@redacted>
+From: Patrick Maynard <<redacted>@<redacted>>
 To: SPD_PDU <SPD_PDU@seattle.gov>
 Cc: "O'Neil, John" <john.oneil@seattle.gov>
-Content-Type: multipart/alternative; boundary="000000000000929880062498c9e2"
+Content-Type: multipart/alternative; boundary="000000000000a0d35c062c51336f"
 
---000000000000929880062498c9e2
+--000000000000a0d35c062c51336f
 Content-Type: text/plain; charset="UTF-8"
 Content-Transfer-Encoding: quoted-printable
 
-Just wanted to give this one more try. If you guys have anything that would
-counter the assumption I stated earlier, please let me know within the next
-couple days.
+Hi there,
 
-Best,
+I wanted to check again: Is there a PRA-requestable set of database records
+that track each case of civil asset forfeiture? Maybe in a NoSQL database
+that doesn't have a schema? Or is paper form 'Notice of Seizure and
+Intended Forfeiture' truly the only way that this data is recorded?
+
+In my story draft for *The Appeal *about a state legislator putting
+together new reporting requirements, I currently have the following text:
+
+The Appeal *made more than a dozen additional requests via phone and email
+over the course of eight months to the SPD's public disclosure unit via
+email and telephone. Contacting that unit was itself suggested by a media
+representative for the department. The requests asked for comment on how
+forfeitures are tracked. They were met with silence, including when the
+media representative was copied.*
+
+If there's anything inaccurate about that statement above, please let me
+know as soon as possible. Thank you.
+
+All the best,
 
 Patrick
 
-On Thu, Aug 8, 2024 at 5:58=E2=80=AFPM Patrick Maynard <redacted@redac
-ted>
+
+
+On Sun, Jan 19, 2025 at 10:40=E2=80=AFPM Patrick Maynard <<redacted><redacted>=
+<redacted>>
 wrote:
 
-> Good morning, diligent PDU representatives,
+> Hello PDU team,
 >
-> I just wanted to check in again on my open question for the *Stranger*.
-> Is it accurate for me to assume that the first message in this thread --
-> from February 8 -- means the city's database of civil asset forfeiture
-> seizures was maintained at some point in the past but is no longer being
-> maintained? If that assumption is not correct, what is the situation that
-> corresponds with the wording in the city's February 8 email?
+> I am writing this email to SPD_PDU@seattle.gov in combination with a
+> simultaneous call to 206-684-5481. I wanted to check again: Is there a
+> PRA-able set of database records that track each case of civil asset
+> forfeiture? Possibly in a NoSQL database that doesn't have a schema? Or i=
+s
+> paper form 'Notice of Seizure and Intended Forfeiture' the only way that
+> this data is recorded?
 >
-> As always, many thanks for reading my note. (John remains copied on the
-> thread, but with the primary recipient now being the PDU address.)
+> Some context: A state legislator is promising transparency reforms relate=
+d
+> to asset forfeiture. I want to ideally nail down this question for my sto=
+ry
+> in *The Appeal* on the matter.
 >
 > All the best,
 >
 > Patrick
 >
-> Am Mo., 6. Mai 2024 um 19:13 Uhr schrieb Patrick Maynard <
-> redacted@redacted>:
 >
->> Good morning, diligent PDU representatives,
+>
+> On Thu, Jan 16, 2025 at 11:24=E2=80=AFPM Patrick Maynard <<redacted>@=
+<redacted>>
+> wrote:
+>
+>> Good afternoon PDU team,
 >>
->> I just wanted to check in again on my open question for the *Stranger*.
->> Is it accurate for me to assume that the first message in this thread --
->> from February 8 -- means the city's database of civil asset forfeiture
->> seizures was maintained at some point in the past but is no longer being
->> maintained? If that assumption is not correct, what is the situation
->> that corresponds with the wording in the city's February 8 email?
->>
->> As always, many thanks for reading my note. (John remains copied on the
->> thread, but with the primary recipient now being the PDU address.)
+>> I wanted to check again: Is there a PRA-able set of database records tha=
+t
+>> track each case of civil asset forfeiture? Or is paper form 'Notice of
+>> Seizure and Intended Forfeiture' the only way that this data is
+>> recorded?
 >>
 >> All the best,
 >>
 >> Patrick
 >>
 >>
->> Am Fr., 3. Mai 2024 um 15:41 Uhr schrieb Patrick Maynard <
->> redacted@redacted>:
 >>
->>> Hello again.
+>> On Tue, Jan 14, 2025 at 10:38=E2=80=AFPM Patrick Maynard <
+>> <redacted>@<redacted>> wrote:
+>>
+>>> Dear PDU corps,
 >>>
->>> *PDU folks: I just wanted to check on this open question again (for the
->>> Stranger). *Is it accurate for me to assume that the first message in
->>> this thread -- dated February 8 -- means the city's database of civil
->>> asset forfeiture seizures was maintained at some past time but is no lo=
-nger
->>> being maintained? If that assumption is not correct, what is the
->>> situation that corresponds with the wording in the city's February 8
->>> message?
+>>> After some organizational upheaval at *The Stranger, *this project has
+>>> moved from its newsroom to a resurrection with the national publication=
+ *The
+>>> Appeal. *There may or may not be an additional local publishing
+>>> partner.
 >>>
->>> As always, many thanks for reading my message.
+>>> With that in mind, I wanted to check again: Is there a PRA-able set of
+>>> database records that track each case of civil asset forfeiture? Or is
+>>> paper form 'Notice of Seizure and Intended Forfeiture' the only way tha=
+t
+>>> this data is recorded?
+>>>
+>>> I just left a message at 206-684-5481 about 60 seconds ago, asking
+>>> about this same topic. I'm hoping that restarts progress on this
+>>> long-stalled topic. The silence on this thread is frankly at risk of *b=
+ecoming
+>>> *the story.
 >>>
 >>> All the best,
 >>>
@@ -83,525 +112,717 @@ nger
 >>>
 >>>
 >>>
->>> Am Di., 30. Apr. 2024 um 19:30 Uhr schrieb Patrick Maynard <
->>> redacted@redacted>:
+>>> On Wed, Oct 16, 2024 at 4:21=E2=80=AFPM Patrick Maynard <
+>>> <redacted>@<redacted>> wrote:
 >>>
->>>> Hi again,
+>>>> Just wanted to give this one more try. If you guys have anything that
+>>>> would counter the assumption I stated earlier, please let me know with=
+in
+>>>> the next couple days.
 >>>>
->>>> I assume that it's been a busy week, and that this topic may have
->>>> drifted to the bottom of a pile, so I wanted to give another opportuni=
-ty
->>>> for comment.
->>>>
->>>> *I just wanted to check again (for the Stranger): *Is it accurate for
->>>> me to assume that the first message in this thread -- dated February 8=
- --
->>>> means the city's database of civil asset forfeiture seizures was
->>>> maintained at some past time but is no longer being maintained? If tha=
-t's
->>>> not a correct assumption, what is the situation that corresponds with
->>>> the wording in the city's February 8 message?
->>>>
->>>> Many thanks as always for reading my message.
->>>>
->>>> All the best to you,
+>>>> Best,
 >>>>
 >>>> Patrick
 >>>>
+>>>> On Thu, Aug 8, 2024 at 5:58=E2=80=AFPM Patrick Maynard <
+>>>> <redacted>@<redacted>> wrote:
 >>>>
->>>>
->>>> Am Mo., 22. Apr. 2024 um 16:04 Uhr schrieb Patrick Maynard <
->>>> redacted@redacted>:
->>>>
->>>>> Hi again,
+>>>>> Good morning, diligent PDU representatives,
 >>>>>
->>>>> *I just wanted to check again (for the Stranger): *Is it accurate for
->>>>> me to assume that the first message in this thread -- dated February =
-8 --
->>>>> means the city's database of civil asset forfeiture seizures was
->>>>> maintained at some past time but is no longer being maintained? If th=
-at's
->>>>> not a correct assumption, what is the situation that corresponds with
->>>>> the wording in the city's February 8 message?
+>>>>> I just wanted to check in again on my open question for the *Stranger=
+*.
+>>>>> Is it accurate for me to assume that the first message in this thread=
+ --
+>>>>> from February 8 -- means the city's database of civil asset
+>>>>> forfeiture seizures was maintained at some point in the past but is n=
+o
+>>>>> longer being maintained? If that assumption is not correct, what is
+>>>>> the situation that corresponds with the wording in the city's
+>>>>> February 8 email?
 >>>>>
->>>>> Many thanks as always for reading my message.
+>>>>> As always, many thanks for reading my note. (John remains copied on
+>>>>> the thread, but with the primary recipient now being the PDU address.=
+)
 >>>>>
->>>>> All the best to you,
+>>>>> All the best,
 >>>>>
 >>>>> Patrick
 >>>>>
+>>>>> Am Mo., 6. Mai 2024 um 19:13 Uhr schrieb Patrick Maynard <
+>>>>> <redacted>@<redacted>>:
 >>>>>
->>>>>
->>>>> Am Fr., 19. Apr. 2024 um 16:10 Uhr schrieb Patrick Maynard <
->>>>> redacted@redacted>:
->>>>>
->>>>>> Thanks, John.
+>>>>>> Good morning, diligent PDU representatives,
 >>>>>>
->>>>>> *PDU folks: *Is it accurate for me to assume that the first message
->>>>>> in this thread -- dated February 8 -- means the database of civil
->>>>>> asset forfeiture seizures was maintained at some past time but is no=
- longer
->>>>>> being maintained? If that's not a correct assumption, what is the
->>>>>> situation that corresponds with the wording in the city's February 8
->>>>>> message?
+>>>>>> I just wanted to check in again on my open question for the
+>>>>>> *Stranger*. Is it accurate for me to assume that the first message
+>>>>>> in this thread -- from February 8 -- means the city's database of
+>>>>>> civil asset forfeiture seizures was maintained at some point in the =
+past
+>>>>>> but is no longer being maintained? If that assumption is not correct=
+, what
+>>>>>> is the situation that corresponds with the wording in the city's
+>>>>>> February 8 email?
 >>>>>>
->>>>>> Many thanks for reading my message. If I don't hear back from you
->>>>>> before then, please enjoy the weekend.
+>>>>>> As always, many thanks for reading my note. (John remains copied on
+>>>>>> the thread, but with the primary recipient now being the PDU address=
+.)
 >>>>>>
 >>>>>> All the best,
 >>>>>>
 >>>>>> Patrick
 >>>>>>
 >>>>>>
+>>>>>> Am Fr., 3. Mai 2024 um 15:41 Uhr schrieb Patrick Maynard <
+>>>>>> <redacted>@<redacted>>:
 >>>>>>
->>>>>> Am Do., 18. Apr. 2024 um 23:40 Uhr schrieb O'Neil, John <
->>>>>> John.Oneil@seattle.gov>:
->>>>>>
->>>>>>> Not a problem at all. I have CC=E2=80=99d them on this email .
+>>>>>>> Hello again.
 >>>>>>>
+>>>>>>> *PDU folks: I just wanted to check on this open question again (for
+>>>>>>> the Stranger). *Is it accurate for me to assume that the first
+>>>>>>> message in this thread -- dated February 8 -- means the city's
+>>>>>>> database of civil asset forfeiture seizures was maintained at some
+>>>>>>> past time but is no longer being maintained? If that assumption is =
+not
+>>>>>>> correct, what is the situation that corresponds with the wording in
+>>>>>>> the city's February 8 message?
 >>>>>>>
->>>>>>>
->>>>>>> Lieutenant John O=E2=80=99Neil
->>>>>>>
->>>>>>> SPD Public Affairs Lieutenant
->>>>>>>
->>>>>>> City Of Seattle Police Department
->>>>>>>
->>>>>>> 206-615-0923 Desk
->>>>>>>
->>>>>>> John.oneil@seattle.gov
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> *From:* Patrick Maynard <redacted@redacted>
->>>>>>> *Sent:* Thursday, April 18, 2024 2:05 PM
->>>>>>> *To:* O'Neil, John <John.Oneil@seattle.gov>
->>>>>>> *Subject:* Re: Public Records Center - Police :: P165490-123123
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> *CAUTION: External Email*
->>>>>>>
->>>>>>> Hi John,
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Thanks for getting back to me! No worries at all about not knowing.
->>>>>>> Is there an email address you can recommend to me for reaching them=
-?
->>>>>>>
->>>>>>>
+>>>>>>> As always, many thanks for reading my message.
 >>>>>>>
 >>>>>>> All the best,
->>>>>>>
->>>>>>>
 >>>>>>>
 >>>>>>> Patrick
 >>>>>>>
 >>>>>>>
 >>>>>>>
->>>>>>> Am Do., 18. Apr. 2024 um 22:25 Uhr schrieb O'Neil, John <
->>>>>>> John.Oneil@seattle.gov>:
->>>>>>>
->>>>>>> Good afternoon Patrick,
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Unfortunately, I don=E2=80=99t have the answer to this question. Yo=
-u may
->>>>>>> have to contact our Public Disclosure Unit for that answer.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> John
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Get Outlook for iOS <https://aka.ms/o0ukef>
->>>>>>> ------------------------------
->>>>>>>
->>>>>>> *From:* Patrick Maynard <redacted@redacted>
->>>>>>> *Sent:* Thursday, April 18, 2024 1:07:42 PM
->>>>>>> *To:* O'Neil, John <John.Oneil@seattle.gov>
->>>>>>> *Subject:* Re: Public Records Center - Police :: P165490-123123
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> *CAUTION: External Email*
->>>>>>>
->>>>>>> Hi John,
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> I just wanted to check in on this thread. Is it accurate for me to
->>>>>>> assume that this means the database was maintained at some past tim=
-e but is
->>>>>>> no longer being maintained? If not, what is the situation that corr=
-esponds
->>>>>>> with the wording in the city's February 8 message (included in this
->>>>>>> thread)?
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> All the best,
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Patrick
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Am Fr., 12. Apr. 2024 um 17:12 Uhr schrieb Patrick Maynard <
->>>>>>> redacted@redacted>:
->>>>>>>
->>>>>>> Dear John,
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> I'm working on a possible freelance project for *The Stranger, *whe=
-re
->>>>>>> an editor has expressed interest. I'm hoping you can give me an ide=
-a of
->>>>>>> whether there's actually a story here.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> In the attached response to a public records request, it's mentione=
-d
->>>>>>> that a table layout for a database tracking civil asset forfeitures=
- "is no
->>>>>>> longer being used."
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Is it accurate for me to assume that this means the database was
->>>>>>> maintained at some past time but is no longer being maintained? If =
-not,
->>>>>>> what is the situation that corresponds with the wording above?
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> In any case, thanks for reading my email. I'll keep an eye out for
->>>>>>> your response.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> All the best,
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Patrick
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> ---------- Forwarded message ---------
->>>>>>> Von: *City of Seattle Public Records Request Center* <
->>>>>>> seattle@mycusthelp.net>
->>>>>>> Date: Do., 8. Feb. 2024 um 15:22 Uhr
->>>>>>> Subject: Public Records Center - Police :: P165490-123123
->>>>>>> To: redacted@redacted <redacted@redacted>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> --- Please respond above this line ---
->>>>>>>
->>>>>>> 02/08/2024
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Patrick Maynard
->>>>>>>
->>>>>>> redacted@redacted
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> RE: Public Disclosure Request#: P165490-123123
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Dear Patrick Maynard,
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Your records have been released and are available on the Public
->>>>>>> Records Request Center
->>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-31321b84=
--4544474f5631-1d4588e7d94ff898&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff63311c1=
-e8&u=3Dhttps%3A%2F%2Fu8387795.ct.sendgrid.net%2Fls%2Fclick%3Fupn%3DnZGH0ylx=
-adMp5hTpNkeAFs5-2B0tNFpOmK4x7yiv5okBWV7cNXawYhgRb15ZYq812sjosyu25jaqNbkhZ-2=
-FlHCSr2hrOgTti4FxZ0mWrVq647Y-3D9IUO_-2F2Ce3NhTMiWIwvgWzERJRA5ajxPldD72bkCfg=
-Pf3Z-2BDr6qoZiuUhzC3rAMrg0-2BOPzJPZ0iFrT9GQxkM1HVhWkc5RLwLWTatiL2VheQYx3zoA=
-lz-2FQGHQyRS0KEgAqehOxIj2qgPa-2BXGH97FTJ2LCq2HgvIa-2BCByxO3HnkVKIv-2B6pzKNy=
-jpNz2QuULt3Tisus-2FUUdNb-2B6m19HdxUzIsue12AC0Mafzm85mxxksJf8Qkd-2Fzm0Pi9mpU=
-xNS69YVPxG-2BzA2g8rlEQtFWCcwOqLtBit5Xz3rPuZEwSBefyQtRNM4t0af9-2BeyvxCK-2F-2=
-BjbSW8V9XIQ-2BtR-2BUZyG5H4RSjxt5ZP9CzgSnkUP5B32AIE6NE5qKhX7vd81ZMbzoRyvgink=
-s3>
->>>>>>> to download.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> We have released the Notice of Seizure and Intended Forfeiture" is
->>>>>>> the only form being used now. The schema (table layout) is no longe=
-r being
->>>>>>> used.  This concludes the Seattle Police Department=E2=80=99s respo=
-nse to your
->>>>>>> request.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> To download your records, please:
->>>>>>>
->>>>>>>    - Navigate to the Public Records Request Center
->>>>>>>    <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-31321=
-b84-4544474f5631-fbcb473e0c908d74&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff6331=
-1c1e8&u=3Dhttps%3A%2F%2Fu8387795.ct.sendgrid.net%2Fls%2Fclick%3Fupn%3DnZGH0=
-ylxadMp5hTpNkeAFs5-2B0tNFpOmK4x7yiv5okBWV7cNXawYhgRb15ZYq812sjosyu25jaqNbkh=
-Z-2FlHCSr2hrOgTti4FxZ0mWrVq647Y-3DdVTR_-2F2Ce3NhTMiWIwvgWzERJRA5ajxPldD72bk=
-CfgPf3Z-2BDr6qoZiuUhzC3rAMrg0-2BOPzJPZ0iFrT9GQxkM1HVhWkc5RLwLWTatiL2VheQYx3=
-zoAlz-2FQGHQyRS0KEgAqehOxIj2qgPa-2BXGH97FTJ2LCq2HgvIa-2BCByxO3HnkVKIv-2B6pz=
-KNyjpNz2QuULt3Tisus-2FUUdNb-2B6m19HdxUzIsue12AC0Mafzm85mxxksJf8Qkd-2BVgnpKB=
-lC6Iaki8eeEW5itFVvvZUSaYHgGhaX8-2FS1frmWQ8H8kU2y1ntDtEIX4XgbYHaHnGLNQg-2FBw=
-6PqJyqVL-2FfCdbwMrqvxptuQ-2FRqjjynBDbiCChO1OmIWdeiXTRx4iRQOQM2xqAewnjEczrh1=
-6>
->>>>>>>    .
->>>>>>>    - Select 'My Records Request Center'.
->>>>>>>    - Select 'View My Requests'. You may be asked to login.
->>>>>>>    - Select this request: P165490-123123.
->>>>>>>    - Select the 'View Files' button.
->>>>>>>    - You can download records individually or all at the same time
->>>>>>>    by clicking 'Download All'.
->>>>>>>    - *Please save your records as you may only download them from
->>>>>>>    the system three times.*
->>>>>>>    - *If you do not download your records within 30 days of request
->>>>>>>    closure, the link to your records will expire.*
->>>>>>>
->>>>>>> If you believe you have received privileged or confidential records
->>>>>>> in error, please notify the City of Seattle immediately, through th=
-e Public
->>>>>>> Records Request Center or by email. Privileged or confidential reco=
-rds
->>>>>>> provided or received in error should not be reviewed, used, dissemi=
-nated,
->>>>>>> distributed, or copied, and should be destroyed immediately. Thank =
-you in
->>>>>>> advance for your cooperation.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> If you wish to appeal the search, production, or application of any
->>>>>>> exemption in connection with this request you may submit an appeal =
-in
->>>>>>> writing to the Seattle Police Legal Unit within ten (10) business d=
-ays from
->>>>>>> the date you received your records.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Please include your name and address, a copy of any redacted files,
->>>>>>> and a copy of this letter together with a brief statement identifyi=
-ng the
->>>>>>> basis of the appeal.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Please mail or deliver your appeal to:
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Seattle Police Department
->>>>>>>
->>>>>>> Attn: Legal Unit
->>>>>>>
->>>>>>> 610 Fifth Avenue
->>>>>>>
->>>>>>> P.O. Box 34986
->>>>>>>
->>>>>>> Seattle, WA 98124-4986
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> If you have any questions, you may send a message using the Police
->>>>>>> Records Request Center or call the Public Disclosure Desk at 206-68=
-4-5481.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Sincerely,
->>>>>>>
->>>>>>> Sauncy Hurst
->>>>>>>
->>>>>>> Seattle Police Department
->>>>>>>
->>>>>>> Legal Unit
->>>>>>>
->>>>>>>
->>>>>>> ------------------------------
->>>>>>>
->>>>>>> SPD receives between 7, 000 and 8, 000 public records requests
->>>>>>> annually and is processing between 2, 500 to 3, 000 open requests a=
-t any
->>>>>>> given time. This may result in a slower than anticipated response t=
-o your
->>>>>>> request. Thank you for your
->>>>>>> patience.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> As a reminder you can login at the Police Records Request Center
->>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-31321b84=
--4544474f5631-abf5b5343a8f9e97&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff63311c1=
-e8&u=3Dhttps%3A%2F%2Fu8387795.ct.sendgrid.net%2Fls%2Fclick%3Fupn%3DnZGH0ylx=
-adMp5hTpNkeAFs5-2B0tNFpOmK4x7yiv5okBWV7cNXawYhgRb15ZYq812sjosyu25jaqNbkhZ-2=
-FlHCSr2hrOgTti4FxZ0mWrVq647Y-3D75ld_-2F2Ce3NhTMiWIwvgWzERJRA5ajxPldD72bkCfg=
-Pf3Z-2BDr6qoZiuUhzC3rAMrg0-2BOPzJPZ0iFrT9GQxkM1HVhWkc5RLwLWTatiL2VheQYx3zoA=
-lz-2FQGHQyRS0KEgAqehOxIj2qgPa-2BXGH97FTJ2LCq2HgvIa-2BCByxO3HnkVKIv-2B6pzKNy=
-jpNz2QuULt3Tisus-2FUUdNb-2B6m19HdxUzIsue12AC0Mafzm85mxxksJf8Qkd8rz0Vx38Rvu5=
-3PybbeA0XyGYW-2FbpZaCDkL8OHa2LfrtoRU9Au8DVdghWa-2B8zBc5eooqPekpOQte0QB-2BY6=
-sl0TZybXk252EaDVbSbnLlZtiSmdNBs4-2Fk-2F4bZCQa4m4P4-2BiPEdYg2ZWoF6cYNHqWh3g4=
-> where
->>>>>>> you can access Police online information, manage your profile, subm=
-it
->>>>>>> record requests, track your request status, receive and send messag=
-es, make
->>>>>>> payments, view frequently asked questions, and download your record=
-s.
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> *Please add seattle@mycusthelp.net <seattle@mycusthelp.net> to your
->>>>>>> E-mail contacts/address book to ensure delivery of the record cente=
+>>>>>>> Am Di., 30. Apr. 2024 um 19:30 Uhr schrieb Patrick Maynard <
+>>>>>>> <redacted>@<redacted>>:
+>>>>>>>
+>>>>>>>> Hi again,
+>>>>>>>>
+>>>>>>>> I assume that it's been a busy week, and that this topic may have
+>>>>>>>> drifted to the bottom of a pile, so I wanted to give another oppor=
+tunity
+>>>>>>>> for comment.
+>>>>>>>>
+>>>>>>>> *I just wanted to check again (for the Stranger): *Is it accurate
+>>>>>>>> for me to assume that the first message in this thread -- dated Fe=
+bruary 8
+>>>>>>>> -- means the city's database of civil asset forfeiture seizures
+>>>>>>>> was maintained at some past time but is no longer being maintained=
+? If
+>>>>>>>> that's not a correct assumption, what is the situation that
+>>>>>>>> corresponds with the wording in the city's February 8 message?
+>>>>>>>>
+>>>>>>>> Many thanks as always for reading my message.
+>>>>>>>>
+>>>>>>>> All the best to you,
+>>>>>>>>
+>>>>>>>> Patrick
+>>>>>>>>
+>>>>>>>>
+>>>>>>>>
+>>>>>>>> Am Mo., 22. Apr. 2024 um 16:04 Uhr schrieb Patrick Maynard <
+>>>>>>>> <redacted>@<redacted>>:
+>>>>>>>>
+>>>>>>>>> Hi again,
+>>>>>>>>>
+>>>>>>>>> *I just wanted to check again (for the Stranger): *Is it accurate
+>>>>>>>>> for me to assume that the first message in this thread -- dated F=
+ebruary 8
+>>>>>>>>> -- means the city's database of civil asset forfeiture seizures
+>>>>>>>>> was maintained at some past time but is no longer being maintaine=
+d? If
+>>>>>>>>> that's not a correct assumption, what is the situation that
+>>>>>>>>> corresponds with the wording in the city's February 8 message?
+>>>>>>>>>
+>>>>>>>>> Many thanks as always for reading my message.
+>>>>>>>>>
+>>>>>>>>> All the best to you,
+>>>>>>>>>
+>>>>>>>>> Patrick
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> Am Fr., 19. Apr. 2024 um 16:10 Uhr schrieb Patrick Maynard <
+>>>>>>>>> <redacted>@<redacted>>:
+>>>>>>>>>
+>>>>>>>>>> Thanks, John.
+>>>>>>>>>>
+>>>>>>>>>> *PDU folks: *Is it accurate for me to assume that the first
+>>>>>>>>>> message in this thread -- dated February 8 -- means the database
+>>>>>>>>>> of civil asset forfeiture seizures was maintained at some past t=
+ime but is
+>>>>>>>>>> no longer being maintained? If that's not a correct assumption, =
+what is
+>>>>>>>>>> the situation that corresponds with the wording in the city's
+>>>>>>>>>> February 8 message?
+>>>>>>>>>>
+>>>>>>>>>> Many thanks for reading my message. If I don't hear back from yo=
+u
+>>>>>>>>>> before then, please enjoy the weekend.
+>>>>>>>>>>
+>>>>>>>>>> All the best,
+>>>>>>>>>>
+>>>>>>>>>> Patrick
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> Am Do., 18. Apr. 2024 um 23:40 Uhr schrieb O'Neil, John <
+>>>>>>>>>> John.Oneil@seattle.gov>:
+>>>>>>>>>>
+>>>>>>>>>>> Not a problem at all. I have CC=E2=80=99d them on this email .
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Lieutenant John O=E2=80=99Neil
+>>>>>>>>>>>
+>>>>>>>>>>> SPD Public Affairs Lieutenant
+>>>>>>>>>>>
+>>>>>>>>>>> City Of Seattle Police Department
+>>>>>>>>>>>
+>>>>>>>>>>> 206-615-0923 Desk
+>>>>>>>>>>>
+>>>>>>>>>>> John.oneil@seattle.gov
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> *From:* Patrick Maynard <<redacted>@<redacted>>
+>>>>>>>>>>> *Sent:* Thursday, April 18, 2024 2:05 PM
+>>>>>>>>>>> *To:* O'Neil, John <John.Oneil@seattle.gov>
+>>>>>>>>>>> *Subject:* Re: Public Records Center - Police :: P165490-123123
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> *CAUTION: External Email*
+>>>>>>>>>>>
+>>>>>>>>>>> Hi John,
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Thanks for getting back to me! No worries at all about not
+>>>>>>>>>>> knowing. Is there an email address you can recommend to me for =
+reaching
+>>>>>>>>>>> them?
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> All the best,
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Patrick
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Am Do., 18. Apr. 2024 um 22:25 Uhr schrieb O'Neil, John <
+>>>>>>>>>>> John.Oneil@seattle.gov>:
+>>>>>>>>>>>
+>>>>>>>>>>> Good afternoon Patrick,
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Unfortunately, I don=E2=80=99t have the answer to this question=
+. You may
+>>>>>>>>>>> have to contact our Public Disclosure Unit for that answer.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> John
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Get Outlook for iOS <https://aka.ms/o0ukef>
+>>>>>>>>>>> ------------------------------
+>>>>>>>>>>>
+>>>>>>>>>>> *From:* Patrick Maynard <<redacted>@<redacted>>
+>>>>>>>>>>> *Sent:* Thursday, April 18, 2024 1:07:42 PM
+>>>>>>>>>>> *To:* O'Neil, John <John.Oneil@seattle.gov>
+>>>>>>>>>>> *Subject:* Re: Public Records Center - Police :: P165490-123123
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> *CAUTION: External Email*
+>>>>>>>>>>>
+>>>>>>>>>>> Hi John,
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> I just wanted to check in on this thread. Is it accurate for me
+>>>>>>>>>>> to assume that this means the database was maintained at some p=
+ast time but
+>>>>>>>>>>> is no longer being maintained? If not, what is the situation th=
+at
+>>>>>>>>>>> corresponds with the wording in the city's February 8 message (=
+included in
+>>>>>>>>>>> this thread)?
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> All the best,
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Patrick
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Am Fr., 12. Apr. 2024 um 17:12 Uhr schrieb Patrick Maynard <
+>>>>>>>>>>> <redacted>@<redacted>>:
+>>>>>>>>>>>
+>>>>>>>>>>> Dear John,
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> I'm working on a possible freelance project for *The Stranger, =
+*where
+>>>>>>>>>>> an editor has expressed interest. I'm hoping you can give me an=
+ idea of
+>>>>>>>>>>> whether there's actually a story here.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> In the attached response to a public records request, it's
+>>>>>>>>>>> mentioned that a table layout for a database tracking civil ass=
+et
+>>>>>>>>>>> forfeitures "is no longer being used."
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Is it accurate for me to assume that this means the database wa=
+s
+>>>>>>>>>>> maintained at some past time but is no longer being maintained?=
+ If not,
+>>>>>>>>>>> what is the situation that corresponds with the wording above?
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> In any case, thanks for reading my email. I'll keep an eye out
+>>>>>>>>>>> for your response.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> All the best,
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Patrick
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> ---------- Forwarded message ---------
+>>>>>>>>>>> Von: *City of Seattle Public Records Request Center* <
+>>>>>>>>>>> seattle@mycusthelp.net>
+>>>>>>>>>>> Date: Do., 8. Feb. 2024 um 15:22 Uhr
+>>>>>>>>>>> Subject: Public Records Center - Police :: P165490-123123
+>>>>>>>>>>> To: <redacted>@<redacted> <<redacted>@<redacted>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> --- Please respond above this line ---
+>>>>>>>>>>>
+>>>>>>>>>>> 02/08/2024
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Patrick Maynard
+>>>>>>>>>>>
+>>>>>>>>>>> <redacted>@<redacted>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> RE: Public Disclosure Request#: P165490-123123
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Dear Patrick Maynard,
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Your records have been released and are available on the Public
+>>>>>>>>>>> Records Request Center
+>>>>>>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-3132=
+1b84-4544474f5631-1d4588e7d94ff898&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff633=
+11c1e8&u=3Dhttps%3A%2F%2Fu8387795.ct.sendgrid.net%2Fls%2Fclick%3Fupn%3DnZGH=
+0ylxadMp5hTpNkeAFs5-2B0tNFpOmK4x7yiv5okBWV7cNXawYhgRb15ZYq812sjosyu25jaqNbk=
+hZ-2FlHCSr2hrOgTti4FxZ0mWrVq647Y-3D9IUO_-2F2Ce3NhTMiWIwvgWzERJRA5ajxPldD72b=
+kCfgPf3Z-2BDr6qoZiuUhzC3rAMrg0-2BOPzJPZ0iFrT9GQxkM1HVhWkc5RLwLWTatiL2VheQYx=
+3zoAlz-2FQGHQyRS0KEgAqehOxIj2qgPa-2BXGH97FTJ2LCq2HgvIa-2BCByxO3HnkVKIv-2B6p=
+zKNyjpNz2QuULt3Tisus-2FUUdNb-2B6m19HdxUzIsue12AC0Mafzm85mxxksJf8Qkd-2Fzm0Pi=
+9mpUxNS69YVPxG-2BzA2g8rlEQtFWCcwOqLtBit5Xz3rPuZEwSBefyQtRNM4t0af9-2BeyvxCK-=
+2F-2BjbSW8V9XIQ-2BtR-2BUZyG5H4RSjxt5ZP9CzgSnkUP5B32AIE6NE5qKhX7vd81ZMbzoRyv=
+ginks3>
+>>>>>>>>>>> to download.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> We have released the Notice of Seizure and Intended Forfeiture"
+>>>>>>>>>>> is the only form being used now. The schema (table layout) is n=
+o longer
+>>>>>>>>>>> being used.  This concludes the Seattle Police Department=E2=80=
+=99s response to
+>>>>>>>>>>> your request.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> To download your records, please:
+>>>>>>>>>>>
+>>>>>>>>>>>    - Navigate to the Public Records Request Center
+>>>>>>>>>>>    <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-3=
+1321b84-4544474f5631-fbcb473e0c908d74&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff=
+63311c1e8&u=3Dhttps%3A%2F%2Fu8387795.ct.sendgrid.net%2Fls%2Fclick%3Fupn%3Dn=
+ZGH0ylxadMp5hTpNkeAFs5-2B0tNFpOmK4x7yiv5okBWV7cNXawYhgRb15ZYq812sjosyu25jaq=
+NbkhZ-2FlHCSr2hrOgTti4FxZ0mWrVq647Y-3DdVTR_-2F2Ce3NhTMiWIwvgWzERJRA5ajxPldD=
+72bkCfgPf3Z-2BDr6qoZiuUhzC3rAMrg0-2BOPzJPZ0iFrT9GQxkM1HVhWkc5RLwLWTatiL2Vhe=
+QYx3zoAlz-2FQGHQyRS0KEgAqehOxIj2qgPa-2BXGH97FTJ2LCq2HgvIa-2BCByxO3HnkVKIv-2=
+B6pzKNyjpNz2QuULt3Tisus-2FUUdNb-2B6m19HdxUzIsue12AC0Mafzm85mxxksJf8Qkd-2BVg=
+npKBlC6Iaki8eeEW5itFVvvZUSaYHgGhaX8-2FS1frmWQ8H8kU2y1ntDtEIX4XgbYHaHnGLNQg-=
+2FBw6PqJyqVL-2FfCdbwMrqvxptuQ-2FRqjjynBDbiCChO1OmIWdeiXTRx4iRQOQM2xqAewnjEc=
+zrh16>
+>>>>>>>>>>>    .
+>>>>>>>>>>>    - Select 'My Records Request Center'.
+>>>>>>>>>>>    - Select 'View My Requests'. You may be asked to login.
+>>>>>>>>>>>    - Select this request: P165490-123123.
+>>>>>>>>>>>    - Select the 'View Files' button.
+>>>>>>>>>>>    - You can download records individually or all at the same
+>>>>>>>>>>>    time by clicking 'Download All'.
+>>>>>>>>>>>    - *Please save your records as you may only download them
+>>>>>>>>>>>    from the system three times.*
+>>>>>>>>>>>    - *If you do not download your records within 30 days of
+>>>>>>>>>>>    request closure, the link to your records will expire.*
+>>>>>>>>>>>
+>>>>>>>>>>> If you believe you have received privileged or confidential
+>>>>>>>>>>> records in error, please notify the City of Seattle immediately=
+, through
+>>>>>>>>>>> the Public Records Request Center or by email. Privileged or co=
+nfidential
+>>>>>>>>>>> records provided or received in error should not be reviewed, u=
+sed,
+>>>>>>>>>>> disseminated, distributed, or copied, and should be destroyed i=
+mmediately.
+>>>>>>>>>>> Thank you in advance for your cooperation.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> If you wish to appeal the search, production, or application of
+>>>>>>>>>>> any exemption in connection with this request you may submit an=
+ appeal in
+>>>>>>>>>>> writing to the Seattle Police Legal Unit within ten (10) busine=
+ss days from
+>>>>>>>>>>> the date you received your records.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Please include your name and address, a copy of any redacted
+>>>>>>>>>>> files, and a copy of this letter together with a brief statemen=
+t
+>>>>>>>>>>> identifying the basis of the appeal.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Please mail or deliver your appeal to:
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Seattle Police Department
+>>>>>>>>>>>
+>>>>>>>>>>> Attn: Legal Unit
+>>>>>>>>>>>
+>>>>>>>>>>> 610 Fifth Avenue
+>>>>>>>>>>>
+>>>>>>>>>>> P.O. Box 34986
+>>>>>>>>>>>
+>>>>>>>>>>> Seattle, WA 98124-4986
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> If you have any questions, you may send a message using the
+>>>>>>>>>>> Police Records Request Center or call the Public Disclosure Des=
+k at
+>>>>>>>>>>> 206-684-5481.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Sincerely,
+>>>>>>>>>>>
+>>>>>>>>>>> Sauncy Hurst
+>>>>>>>>>>>
+>>>>>>>>>>> Seattle Police Department
+>>>>>>>>>>>
+>>>>>>>>>>> Legal Unit
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> ------------------------------
+>>>>>>>>>>>
+>>>>>>>>>>> SPD receives between 7, 000 and 8, 000 public records requests
+>>>>>>>>>>> annually and is processing between 2, 500 to 3, 000 open reques=
+ts at any
+>>>>>>>>>>> given time. This may result in a slower than anticipated respon=
+se to your
+>>>>>>>>>>> request. Thank you for your
+>>>>>>>>>>> patience.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> As a reminder you can login at the Police Records Request Cente=
 r
->>>>>>> E-mails to your Inbox.*
->>>>>>>
->>>>>>>
+>>>>>>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-3132=
+1b84-4544474f5631-abf5b5343a8f9e97&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff633=
+11c1e8&u=3Dhttps%3A%2F%2Fu8387795.ct.sendgrid.net%2Fls%2Fclick%3Fupn%3DnZGH=
+0ylxadMp5hTpNkeAFs5-2B0tNFpOmK4x7yiv5okBWV7cNXawYhgRb15ZYq812sjosyu25jaqNbk=
+hZ-2FlHCSr2hrOgTti4FxZ0mWrVq647Y-3D75ld_-2F2Ce3NhTMiWIwvgWzERJRA5ajxPldD72b=
+kCfgPf3Z-2BDr6qoZiuUhzC3rAMrg0-2BOPzJPZ0iFrT9GQxkM1HVhWkc5RLwLWTatiL2VheQYx=
+3zoAlz-2FQGHQyRS0KEgAqehOxIj2qgPa-2BXGH97FTJ2LCq2HgvIa-2BCByxO3HnkVKIv-2B6p=
+zKNyjpNz2QuULt3Tisus-2FUUdNb-2B6m19HdxUzIsue12AC0Mafzm85mxxksJf8Qkd8rz0Vx38=
+Rvu53PybbeA0XyGYW-2FbpZaCDkL8OHa2LfrtoRU9Au8DVdghWa-2B8zBc5eooqPekpOQte0QB-=
+2BY6sl0TZybXk252EaDVbSbnLlZtiSmdNBs4-2Fk-2F4bZCQa4m4P4-2BiPEdYg2ZWoF6cYNHqW=
+h3g4> where
+>>>>>>>>>>> you can access Police online information, manage your profile, =
+submit
+>>>>>>>>>>> record requests, track your request status, receive and send me=
+ssages, make
+>>>>>>>>>>> payments, view frequently asked questions, and download your re=
+cords.
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> *Please add seattle@mycusthelp.net <seattle@mycusthelp.net> to
+>>>>>>>>>>> your E-mail contacts/address book to ensure delivery of the rec=
+ord center
+>>>>>>>>>>> E-mails to your Inbox.*
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> --
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Patrick Maynard
+>>>>>>>>>>>
+>>>>>>>>>>> <redacted>.com
+>>>>>>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-3132=
+1b84-4544474f5631-d1dcff8b318a6146&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff633=
+11c1e8&u=3Dhttp%3A%2F%2F<redacted>.com%2F>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> --
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Patrick Maynard
+>>>>>>>>>>>
+>>>>>>>>>>> <redacted>.com
+>>>>>>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-3132=
+1b84-4544474f5631-d1dcff8b318a6146&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff633=
+11c1e8&u=3Dhttp%3A%2F%2F<redacted>.com%2F>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> --
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>> Patrick Maynard
+>>>>>>>>>>>
+>>>>>>>>>>> <redacted>.com
+>>>>>>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-3132=
+1b84-4544474f5631-d1dcff8b318a6146&q=3D1&e=3D5bbd79cf-dcd7-46c6-a1c3-920653=
+b46cb6&u=3Dhttp%3A%2F%2F<redacted>.com%2F>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> --
+>>>>>>>>>>
+>>>>>>>>>> Patrick Maynard
+>>>>>>>>>> <redacted>.com
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> --
+>>>>>>>>>
+>>>>>>>>> Patrick Maynard
+>>>>>>>>> <redacted>.com
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>
+>>>>>>>> --
+>>>>>>>>
+>>>>>>>> Patrick Maynard
+>>>>>>>> <redacted>.com
+>>>>>>>>
+>>>>>>>>
 >>>>>>>
 >>>>>>> --
 >>>>>>>
->>>>>>>
->>>>>>>
 >>>>>>> Patrick Maynard
->>>>>>>
->>>>>>> patrickmaynard.com
->>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-31321b84=
--4544474f5631-d1dcff8b318a6146&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff63311c1=
-e8&u=3Dhttp%3A%2F%2Fpatrickmaynard.com%2F>
+>>>>>>> <redacted>.com
 >>>>>>>
 >>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> --
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Patrick Maynard
->>>>>>>
->>>>>>> patrickmaynard.com
->>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-31321b84=
--4544474f5631-d1dcff8b318a6146&q=3D1&e=3D10819e18-90ef-4f0f-a903-6ff63311c1=
-e8&u=3Dhttp%3A%2F%2Fpatrickmaynard.com%2F>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> --
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>> Patrick Maynard
->>>>>>>
->>>>>>> patrickmaynard.com
->>>>>>> <https://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-31321b84=
--4544474f5631-d1dcff8b318a6146&q=3D1&e=3D5bbd79cf-dcd7-46c6-a1c3-920653b46c=
-b6&u=3Dhttp%3A%2F%2Fpatrickmaynard.com%2F>
->>>>>>>
->>>>>>>
->>>>>>>
->>>>>>
 >>>>>>
 >>>>>> --
 >>>>>>
 >>>>>> Patrick Maynard
->>>>>> patrickmaynard.com
+>>>>>> <redacted>.com
 >>>>>>
 >>>>>>
 >>>>>
 >>>>> --
 >>>>>
 >>>>> Patrick Maynard
->>>>> patrickmaynard.com
+>>>>> <redacted>.com
 >>>>>
 >>>>>
 >>>>
 >>>> --
 >>>>
 >>>> Patrick Maynard
->>>> patrickmaynard.com
+>>>> <redacted>.com
 >>>>
 >>>>
 >>>
 >>> --
 >>>
 >>> Patrick Maynard
->>> patrickmaynard.com
+>>> <redacted>.com
 >>>
 >>>
 >>
 >> --
 >>
 >> Patrick Maynard
->> patrickmaynard.com
+>> <redacted>.com
 >>
 >>
 >
 > --
 >
 > Patrick Maynard
-> patrickmaynard.com
+> <redacted>.com
 >
 >
 
 --=20
 
 Patrick Maynard
-patrickmaynard.com
+<redacted>.com
 
---000000000000929880062498c9e2
+--000000000000a0d35c062c51336f
 Content-Type: text/html; charset="UTF-8"
 Content-Transfer-Encoding: quoted-printable
 
-<div dir=3D"ltr"><div>Just wanted to give this one more try. If you guys ha=
-ve anything that would counter the assumption I stated earlier, please let =
-me know within the next couple days. <br></div><div><br></div><div>Best, <b=
-r></div><div><br></div><div>Patrick<br></div></div><br><div class=3D"gmail_=
-quote"><div dir=3D"ltr" class=3D"gmail_attr">On Thu, Aug 8, 2024 at 5:58=E2=
-=80=AFPM Patrick Maynard &lt;<a href=3D"mailto:redacted@redacted">pa=
-redacted@redacted</a>&gt; wrote:<br></div><blockquote class=3D"gmail_q=
+<div dir=3D"ltr"><div>Hi there, <br></div><div><br></div><div><span>I wante=
+d to check again: Is there a PRA-requestable set of database=20
+records=20
+that track each case of civil asset forfeiture? Maybe in a NoSQL=20
+database that doesn&#39;t have a schema? Or is paper form &#39;Notice
+ of Seizure and Intended Forfeiture&#39; truly <span><span><span class=3D"g=
+mail-il">the</span></span></span> only way that this data is recorded? <br>=
+</span></div><div><span><br></span></div><div><span>In my story draft for <=
+i>The Appeal </i>about a state legislator putting together new reporting re=
+quirements, I currently have the following text: <br></span></div><div><spa=
+n><br></span></div><div>The Appeal <i>made more than a dozen additional req=
+uests via phone and email over the course of eight months to the SPD&#39;s =
+public disclosure unit via email and telephone. Contacting that unit was it=
+self suggested by a media representative for the department. The requests a=
+sked for comment on how forfeitures are tracked. They were met with silence=
+, including when the media representative was copied.</i> <br></div><div><s=
+pan><br></span></div><div><span>If there&#39;s anything inaccurate about th=
+at statement above, please let me know as soon as possible. Thank you. <br>=
+</span></div><div><span><br></span></div><div><span>All the best, <br></spa=
+n></div><div><span><br></span></div><div><span>Patrick <br></span></div><di=
+v><span><br></span></div><div><span><br></span></div></div><br><div class=
+=3D"<redacted>_quote <redacted>_quote_container"><div dir=3D"ltr" class=3D"<redacted>_attr=
+">On Sun, Jan 19, 2025 at 10:40=E2=80=AFPM Patrick Maynard &lt;<a href=3D"m=
+ailto:<redacted>@<redacted>"><redacted>@<redacted></a>&gt; wrote:<br>=
+</div><blockquote class=3D"<redacted>_quote" style=3D"margin:0px 0px 0px 0.8ex;b=
+order-left:1px solid rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr"><d=
+iv>Hello PDU team, <br></div><div><br></div><div>I am writing this email to=
+=C2=A0<a href=3D"mailto:SPD_PDU@seattle.gov" target=3D"_blank">SPD_PDU@seat=
+tle.gov</a> in combination with a simultaneous call to <span style=3D"font-=
+family:Arial">206-684-5481. </span><span> I wanted to check again: Is there=
+ a PRA-able set of database records=20
+that track each case of civil asset forfeiture? Possibly in a NoSQL databas=
+e that doesn&#39;t have a schema? Or is paper form &#39;Notice
+ of Seizure and Intended Forfeiture&#39; <span><span>the</span></span> only=
+ way that this data is recorded? <br></span></div><div><span><br></span></d=
+iv><div><span>Some context: A state legislator is promising transparency re=
+forms related to asset forfeiture. I want to ideally nail down this questio=
+n for my story in <i>The Appeal</i> on the matter. <br></span></div><div><s=
+pan><br></span></div><div><span>All the best, <br></span></div><div><span><=
+br></span></div><div><span>Patrick<br></span></div><div><span><br></span></=
+div><div><span><br></span></div></div><br><div class=3D"<redacted>_quote"><div d=
+ir=3D"ltr" class=3D"<redacted>_attr">On Thu, Jan 16, 2025 at 11:24=E2=80=AFPM Pa=
+trick Maynard &lt;<a href=3D"mailto:<redacted>@<redacted>" target=3D"_bl=
+ank"><redacted>@<redacted></a>&gt; wrote:<br></div><blockquote class=3D"=
+<redacted>_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(20=
+4,204,204);padding-left:1ex"><div dir=3D"ltr"><div>Good afternoon PDU team,=
+ <br></div><div><br></div><div>I wanted to check again: Is there a PRA-able=
+ set of database records=20
+that track each case of civil asset forfeiture? Or is paper form &#39;Notic=
+e
+ of Seizure and Intended Forfeiture&#39; <span>the</span> only way that thi=
+s data is recorded? <br></div><div><br></div><div>All the best, <br></div><=
+div><br></div><div>Patrick=C2=A0 <br></div><div><br></div><div><br></div></=
+div><br><div class=3D"<redacted>_quote"><div dir=3D"ltr" class=3D"<redacted>_attr">On=
+ Tue, Jan 14, 2025 at 10:38=E2=80=AFPM Patrick Maynard &lt;<a href=3D"mailt=
+o:<redacted>@<redacted>" target=3D"_blank"><redacted>@<redacted></a>&=
+gt; wrote:<br></div><blockquote class=3D"<redacted>_quote" style=3D"margin:0px 0=
+px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex"><div =
+dir=3D"ltr"><div>Dear PDU corps, <br></div><div><br></div><div>After some o=
+rganizational upheaval at <i>The Stranger, </i>this project has moved from =
+its newsroom to a resurrection with the national publication <i>The Appeal.=
+ </i>There may or may not be an additional local publishing partner. <br></=
+div><div><br></div><div>With that in mind, I wanted to check again: Is ther=
+e a PRA-able set of database records that track each case of civil asset fo=
+rfeiture? Or is paper form &#39;Notice of Seizure and Intended Forfeiture&#=
+39; the only way that this data is recorded? <br></div><div><br></div><div>=
+I just left a message at <span style=3D"font-family:Arial">206-684-5481 abo=
+ut 60 seconds ago, asking about this same topic. I&#39;m hoping that restar=
+ts progress on this long-stalled topic. The silence on this thread is frank=
+ly at risk of <i>becoming </i>the story.=C2=A0</span> <br></div><div><br></=
+div><div>All the best, <br></div><div><br></div><div>Patrick <br></div><div=
+><br></div><div><br></div></div><br><div class=3D"<redacted>_quote"><div dir=3D"=
+ltr" class=3D"<redacted>_attr">On Wed, Oct 16, 2024 at 4:21=E2=80=AFPM Patrick M=
+aynard &lt;<a href=3D"mailto:<redacted>@<redacted>" target=3D"_blank">pa=
+trickmayn<redacted><redacted></a>&gt; wrote:<br></div><blockquote class=3D"<redacted>_q=
 uote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,2=
-04);padding-left:1ex"><div dir=3D"ltr"><div>Good morning, diligent PDU repr=
-esentatives, <br></div><div><br></div><div><span><div>I just wanted to chec=
-k in again on my open question for the <i>Stranger</i>. Is it accurate for =
-me to assume that the first message in this thread -- from February 8 -- me=
-ans <span>the</span>
+04);padding-left:1ex"><div dir=3D"ltr"><div>Just wanted to give this one mo=
+re try. If you guys have anything that would counter the assumption I state=
+d earlier, please let me know within the next couple days. <br></div><div><=
+br></div><div>Best, <br></div><div><br></div><div>Patrick<br></div></div><b=
+r><div class=3D"<redacted>_quote"><div dir=3D"ltr" class=3D"<redacted>_attr">On Thu, =
+Aug 8, 2024 at 5:58=E2=80=AFPM Patrick Maynard &lt;<a href=3D"mailto:patric=
+kmayn<redacted><redacted>" target=3D"_blank"><redacted>@<redacted></a>&gt; wrot=
+e:<br></div><blockquote class=3D"<redacted>_quote" style=3D"margin:0px 0px 0px 0=
+.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex"><div dir=3D"l=
+tr"><div>Good morning, diligent PDU representatives, <br></div><div><br></d=
+iv><div><span><div>I just wanted to check in again on my open question for =
+the <i>Stranger</i>. Is it accurate for me to assume that the first message=
+ in this thread -- from February 8 -- means <span>the</span>
  city&#39;s <span>database</span> of civil asset forfeiture seizures was=20
 maintained at some point in the past but is no longer being maintained?=20
 If that assumption is not correct, what is <span>the</span> situation that =
@@ -610,10 +831,10 @@ l? <br></div><div><br></div><div>As
  always, many thanks for reading my note. (John remains copied on the=20
 thread, but with the primary recipient now being the PDU address.)<br></div=
 ><div><br></div><div>All the best, <br></div><div><br></div><div>Patrick</d=
-iv></span></div></div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=
-=3D"gmail_attr">Am Mo., 6. Mai 2024 um 19:13=C2=A0Uhr schrieb Patrick Mayna=
-rd &lt;<a href=3D"mailto:redacted@redacted" target=3D"_blank">patric=
-redacted@redacted</a>&gt;:<br></div><blockquote class=3D"gmail_quote" styl=
+iv></span></div></div><br><div class=3D"<redacted>_quote"><div dir=3D"ltr" class=
+=3D"<redacted>_attr">Am Mo., 6. Mai 2024 um 19:13=C2=A0Uhr schrieb Patrick Mayna=
+rd &lt;<a href=3D"mailto:<redacted>@<redacted>" target=3D"_blank">patric=
+kmayn<redacted><redacted></a>&gt;:<br></div><blockquote class=3D"<redacted>_quote" styl=
 e=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);paddin=
 g-left:1ex"><div dir=3D"ltr"><div>Good morning, diligent PDU representative=
 s, <br></div><div><br></div><div><span><div>I just wanted to check in again=
@@ -628,10 +849,10 @@ r></div><div><br></div><div>As always, many thanks for reading my note. (Jo=
 hn remains copied on the thread, but with the primary recipient now being t=
 he PDU address.)<br></div><div><br></div><div>All the best, <br></div><div>=
 <br></div><div>Patrick</div></span></div><div><br></div></div><br><div clas=
-s=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">Am Fr., 3. Mai 2024=
+s=3D"<redacted>_quote"><div dir=3D"ltr" class=3D"<redacted>_attr">Am Fr., 3. Mai 2024=
  um 15:41=C2=A0Uhr schrieb Patrick Maynard &lt;<a href=3D"mailto:patrickmay=
-redacted@redacted" target=3D"_blank">redacted@redacted</a>&gt;:<br></di=
-v><blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;borde=
+n<redacted><redacted>" target=3D"_blank"><redacted>@<redacted></a>&gt;:<br></di=
+v><blockquote class=3D"<redacted>_quote" style=3D"margin:0px 0px 0px 0.8ex;borde=
 r-left:1px solid rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr"><div>H=
 ello again. <br></div><div><span><div><div><br></div><div><b>PDU folks: I j=
 ust wanted to check on this open question again (for the <i>Stranger</i>). =
@@ -644,11 +865,11 @@ intained at some past
 wording in the city&#39;s February 8 message? <br></div><div><br></div><div=
 >As always, many thanks for reading my message.=C2=A0<br></div><div><br></d=
 iv><div>All the best, <br></div><div><br></div><div>Patrick</div><div><br><=
-/div><div><br></div></div></span></div></div><br><div class=3D"gmail_quote"=
-><div dir=3D"ltr" class=3D"gmail_attr">Am Di., 30. Apr. 2024 um 19:30=C2=A0=
-Uhr schrieb Patrick Maynard &lt;<a href=3D"mailto:redacted@redacted"=
- target=3D"_blank">redacted@redacted</a>&gt;:<br></div><blockquote c=
-lass=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px soli=
+/div><div><br></div></div></span></div></div><br><div class=3D"<redacted>_quote"=
+><div dir=3D"ltr" class=3D"<redacted>_attr">Am Di., 30. Apr. 2024 um 19:30=C2=A0=
+Uhr schrieb Patrick Maynard &lt;<a href=3D"mailto:<redacted>@<redacted>"=
+ target=3D"_blank"><redacted>@<redacted></a>&gt;:<br></div><blockquote c=
+lass=3D"<redacted>_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px soli=
 d rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr"><div>Hi again, <br></=
 div><div><br></div><div>I assume that it&#39;s been a busy week, and that t=
 his topic may have drifted to the bottom of a pile, so I wanted to give ano=
@@ -663,11 +884,11 @@ assumption, what is <span>the</span> situation that corresponds with <span>=
 the</span> wording in the city&#39;s February 8 message? <br></div><div><br=
 ></div><div>Many thanks as always for reading my message.=C2=A0<br></div><d=
 iv><br></div><div>All the best to you, <br></div><div><br></div><div>Patric=
-k</div><div><br></div><div><br></div></div></div><br><div class=3D"gmail_qu=
-ote"><div dir=3D"ltr" class=3D"gmail_attr">Am Mo., 22. Apr. 2024 um 16:04=
-=C2=A0Uhr schrieb Patrick Maynard &lt;<a href=3D"mailto:redacted@redacted
-" target=3D"_blank">redacted@redacted</a>&gt;:<br></div><blockq=
-uote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1p=
+k</div><div><br></div><div><br></div></div></div><br><div class=3D"<redacted>_qu=
+ote"><div dir=3D"ltr" class=3D"<redacted>_attr">Am Mo., 22. Apr. 2024 um 16:04=
+=C2=A0Uhr schrieb Patrick Maynard &lt;<a href=3D"mailto:<redacted>@<redacted>=
+l.com" target=3D"_blank"><redacted>@<redacted></a>&gt;:<br></div><blockq=
+uote class=3D"<redacted>_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1p=
 x solid rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr"><div>Hi again, =
 <br></div><div><div><br></div><div><b>I just wanted to check again (for the=
  <i>Stranger</i>): </b>Is it accurate for me to assume that the first messa=
@@ -679,11 +900,11 @@ assumption, what is <span>the</span> situation that corresponds with <span>=
 the</span> wording in the city&#39;s February 8 message? <br></div><div><br=
 ></div><div>Many thanks as always for reading my message. <br></div><div><b=
 r></div><div>All the best to you, <br></div><div><br></div><div>Patrick</di=
-v><div><br></div><div><br></div></div></div><br><div class=3D"gmail_quote">=
-<div dir=3D"ltr" class=3D"gmail_attr">Am Fr., 19. Apr. 2024 um 16:10=C2=A0U=
-hr schrieb Patrick Maynard &lt;<a href=3D"mailto:redacted@redacted" =
-target=3D"_blank">redacted@redacted</a>&gt;:<br></div><blockquote cl=
-ass=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid=
+v><div><br></div><div><br></div></div></div><br><div class=3D"<redacted>_quote">=
+<div dir=3D"ltr" class=3D"<redacted>_attr">Am Fr., 19. Apr. 2024 um 16:10=C2=A0U=
+hr schrieb Patrick Maynard &lt;<a href=3D"mailto:<redacted>@<redacted>" =
+target=3D"_blank"><redacted>@<redacted></a>&gt;:<br></div><blockquote cl=
+ass=3D"<redacted>_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid=
  rgb(204,204,204);padding-left:1ex"><div dir=3D"ltr"><div>Thanks, John.</di=
 v><div><br></div><div><b>PDU folks: </b>Is it accurate for me to assume tha=
 t the first message in this thread -- dated February 8 -- means <span>the</=
@@ -694,10 +915,10 @@ mption, what is <span>the</span> situation that corresponds with <span>the<=
 iv><div>Many thanks for reading my message. If I don&#39;t hear back from y=
 ou before then, please enjoy the weekend.</div><div><br></div><div>All the =
 best, <br></div><div><br></div><div>Patrick<br></div><div><br></div><div><b=
-r></div></div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmai=
+r></div></div><br><div class=3D"<redacted>_quote"><div dir=3D"ltr" class=3D"<redacted>=
 l_attr">Am Do., 18. Apr. 2024 um 23:40=C2=A0Uhr schrieb O&#39;Neil, John &l=
 t;<a href=3D"mailto:John.Oneil@seattle.gov" target=3D"_blank">John.Oneil@se=
-attle.gov</a>&gt;:<br></div><blockquote class=3D"gmail_quote" style=3D"marg=
+attle.gov</a>&gt;:<br></div><blockquote class=3D"<redacted>_quote" style=3D"marg=
 in:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1e=
 x"><div>
 
@@ -738,7 +959,7 @@ order-color:rgb(225,225,225) currentcolor currentcolor;padding:3pt 0in 0in"=
 <p class=3D"MsoNormal"><b><span style=3D"font-size:11pt;font-family:&quot;C=
 alibri&quot;,sans-serif">From:</span></b><span style=3D"font-size:11pt;font=
 -family:&quot;Calibri&quot;,sans-serif"> Patrick Maynard &lt;<a href=3D"mai=
-lto:redacted@redacted" target=3D"_blank">redacted@redacted</a=
+lto:<redacted>@<redacted>" target=3D"_blank"><redacted>@<redacted></a=
 >&gt;
 <br>
 <b>Sent:</b> Thursday, April 18, 2024 2:05 PM<br>
@@ -813,10 +1034,11 @@ swer.<u></u><u></u></p>
 <div>
 <p class=3D"MsoNormal">John=C2=A0<u></u><u></u></p>
 </div>
-<div id=3D"m_-4652319446276861307m_-7428892571091267167m_353984822726464596=
-1m_6435838160096612623m_-2936246218539857728m_-5787796502662380377m_-449408=
-2977575149119m_-2629209709504343896m_6360629874231532681m_-1712455432464721=
-462ms-outlook-mobile-signature">
+<div id=3D"m_3310472347650297317m_6983506754782931901m_-8587049994076442929=
+m_-9182145007690885003m_-4652319446276861307m_-7428892571091267167m_3539848=
+227264645961m_6435838160096612623m_-2936246218539857728m_-57877965026623803=
+77m_-4494082977575149119m_-2629209709504343896m_6360629874231532681m_-17124=
+55432464721462ms-outlook-mobile-signature">
 <div>
 <p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
 </div>
@@ -827,15 +1049,16 @@ nk">Outlook for iOS</a><u></u><u></u></p>
 <div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
 <hr size=3D"2" width=3D"98%" align=3D"center">
 </div>
-<div id=3D"m_-4652319446276861307m_-7428892571091267167m_353984822726464596=
-1m_6435838160096612623m_-2936246218539857728m_-5787796502662380377m_-449408=
-2977575149119m_-2629209709504343896m_6360629874231532681m_-1712455432464721=
-462divRplyFwdMsg">
+<div id=3D"m_3310472347650297317m_6983506754782931901m_-8587049994076442929=
+m_-9182145007690885003m_-4652319446276861307m_-7428892571091267167m_3539848=
+227264645961m_6435838160096612623m_-2936246218539857728m_-57877965026623803=
+77m_-4494082977575149119m_-2629209709504343896m_6360629874231532681m_-17124=
+55432464721462divRplyFwdMsg">
 <p class=3D"MsoNormal"><b><span style=3D"font-size:11pt;font-family:&quot;C=
 alibri&quot;,sans-serif;color:black">From:</span></b><span style=3D"font-si=
 ze:11pt;font-family:&quot;Calibri&quot;,sans-serif;color:black"> Patrick Ma=
-ynard &lt;<a href=3D"mailto:redacted@redacted" target=3D"_blank">pat=
-redacted@redacted</a>&gt;<br>
+ynard &lt;<a href=3D"mailto:<redacted>@<redacted>" target=3D"_blank">pat=
+rickmayn<redacted><redacted></a>&gt;<br>
 <b>Sent:</b> Thursday, April 18, 2024 1:07:42 PM<br>
 <b>To:</b> O&#39;Neil, John &lt;<a href=3D"mailto:John.Oneil@seattle.gov" t=
 arget=3D"_blank">John.Oneil@seattle.gov</a>&gt;<br>
@@ -892,8 +1115,8 @@ hat corresponds with the wording in
 <div>
 <div>
 <p class=3D"MsoNormal">Am Fr., 12. Apr. 2024 um 17:12=C2=A0Uhr schrieb Patr=
-ick Maynard &lt;<a href=3D"mailto:redacted@redacted" target=3D"_blan=
-k">redacted@redacted</a>&gt;:<u></u><u></u></p>
+ick Maynard &lt;<a href=3D"mailto:<redacted>@<redacted>" target=3D"_blan=
+k"><redacted>@<redacted></a>&gt;:<u></u><u></u></p>
 </div>
 <blockquote style=3D"border-width:medium medium medium 1pt;border-style:non=
 e none none solid;border-color:currentcolor currentcolor currentcolor rgb(2=
@@ -973,9 +1196,9 @@ ilto:seattle@mycusthelp.net" target=3D"_blank">seattle@mycusthelp.net</a>&g=
 t;<br>
 Date: Do., 8. Feb. 2024 um 15:22=C2=A0Uhr<br>
 Subject: Public Records Center - Police :: P165490-123123<br>
-To: <a href=3D"mailto:redacted@redacted" target=3D"_blank">patrickma=
-redacted@redacted</a> &lt;<a href=3D"mailto:redacted@redacted" target=
-=3D"_blank">redacted@redacted</a>&gt;<u></u><u></u></p>
+To: <a href=3D"mailto:<redacted>@<redacted>" target=3D"_blank">patrickma=
+yn<redacted><redacted></a> &lt;<a href=3D"mailto:<redacted>@<redacted>" target=
+=3D"_blank"><redacted>@<redacted></a>&gt;<u></u><u></u></p>
 </div>
 <p class=3D"MsoNormal" style=3D"margin-bottom:12pt"><u></u>=C2=A0<u></u></p=
 >
@@ -998,8 +1221,8 @@ ial&quot;,sans-serif">Patrick Maynard<u></u><u></u></span></p>
 </div>
 <div>
 <p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:&quot;Ar=
-ial&quot;,sans-serif"><a href=3D"mailto:redacted@redacted" target=3D=
-"_blank">redacted@redacted</a><u></u><u></u></span></p>
+ial&quot;,sans-serif"><a href=3D"mailto:<redacted>@<redacted>" target=3D=
+"_blank"><redacted>@<redacted></a><u></u><u></u></span></p>
 </div>
 <div>
 <p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:&quot;Ar=
@@ -1278,7 +1501,7 @@ rd</span><u></u><u></u></p>
 <p class=3D"MsoNormal"><span style=3D"color:rgb(153,153,153)"><a href=3D"ht=
 tps://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-31321b84-4544474f56=
 31-d1dcff8b318a6146&amp;q=3D1&amp;e=3D10819e18-90ef-4f0f-a903-6ff63311c1e8&=
-amp;u=3Dhttp%3A%2F%2Fpatrickmaynard.com%2F" target=3D"_blank">patrickmaynar=
+amp;u=3Dhttp%3A%2F%2F<redacted>.com%2F" target=3D"_blank">patrickmaynar=
 d.com</a></span><u></u><u></u></p>
 </div>
 <div>
@@ -1316,7 +1539,7 @@ rd</span><u></u><u></u></p>
 <p class=3D"MsoNormal"><span style=3D"color:rgb(153,153,153)"><a href=3D"ht=
 tps://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-31321b84-4544474f56=
 31-d1dcff8b318a6146&amp;q=3D1&amp;e=3D10819e18-90ef-4f0f-a903-6ff63311c1e8&=
-amp;u=3Dhttp%3A%2F%2Fpatrickmaynard.com%2F" target=3D"_blank">patrickmaynar=
+amp;u=3Dhttp%3A%2F%2F<redacted>.com%2F" target=3D"_blank">patrickmaynar=
 d.com</a></span><u></u><u></u></p>
 </div>
 <div>
@@ -1355,7 +1578,7 @@ rd</span><u></u><u></u></p>
 <p class=3D"MsoNormal"><span style=3D"color:rgb(153,153,153)"><a href=3D"ht=
 tps://protect2.fireeye.com/v1/url?k=3D31323334-50bba2bf-31321b84-4544474f56=
 31-d1dcff8b318a6146&amp;q=3D1&amp;e=3D5bbd79cf-dcd7-46c6-a1c3-920653b46cb6&=
-amp;u=3Dhttp%3A%2F%2Fpatrickmaynard.com%2F" target=3D"_blank">patrickmaynar=
+amp;u=3Dhttp%3A%2F%2F<redacted>.com%2F" target=3D"_blank">patrickmaynar=
 d.com</a></span><u></u><u></u></p>
 </div>
 <div>
@@ -1372,54 +1595,82 @@ d.com</a></span><u></u><u></u></p>
 </div>
 </div>
 
-</div></blockquote></div><br clear=3D"all"><br><span class=3D"gmail_signatu=
-re_prefix">-- </span><br><div dir=3D"ltr" class=3D"gmail_signature"><div di=
+</div></blockquote></div><br clear=3D"all"><br><span class=3D"<redacted>_signatu=
+re_prefix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><div di=
 r=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div=
 ><br></div><div><font color=3D"#999999">Patrick Maynard</font></div><div><f=
-ont color=3D"#999999"><a href=3D"http://patrickmaynard.com" target=3D"_blan=
-k">patrickmaynard.com</a><br></font></div><div><br></div></div></div></div>=
+ont color=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"_blan=
+k"><redacted>.com</a><br></font></div><div><br></div></div></div></div>=
 </div></div></div></div>
-</blockquote></div><br clear=3D"all"><br><span class=3D"gmail_signature_pre=
-fix">-- </span><br><div dir=3D"ltr" class=3D"gmail_signature"><div dir=3D"l=
+</blockquote></div><br clear=3D"all"><br><span class=3D"<redacted>_signature_pre=
+fix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><div dir=3D"l=
 tr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div><br><=
 /div><div><font color=3D"#999999">Patrick Maynard</font></div><div><font co=
-lor=3D"#999999"><a href=3D"http://patrickmaynard.com" target=3D"_blank">pat=
+lor=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"_blank">pat=
 rickmaynard.com</a><br></font></div><div><br></div></div></div></div></div>=
 </div></div></div>
-</blockquote></div><br clear=3D"all"><br><span class=3D"gmail_signature_pre=
-fix">-- </span><br><div dir=3D"ltr" class=3D"gmail_signature"><div dir=3D"l=
+</blockquote></div><br clear=3D"all"><br><span class=3D"<redacted>_signature_pre=
+fix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><div dir=3D"l=
 tr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div><br><=
 /div><div><font color=3D"#999999">Patrick Maynard</font></div><div><font co=
-lor=3D"#999999"><a href=3D"http://patrickmaynard.com" target=3D"_blank">pat=
+lor=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"_blank">pat=
 rickmaynard.com</a><br></font></div><div><br></div></div></div></div></div>=
 </div></div></div>
-</blockquote></div><br clear=3D"all"><br><span class=3D"gmail_signature_pre=
-fix">-- </span><br><div dir=3D"ltr" class=3D"gmail_signature"><div dir=3D"l=
+</blockquote></div><br clear=3D"all"><br><span class=3D"<redacted>_signature_pre=
+fix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><div dir=3D"l=
 tr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div><br><=
 /div><div><font color=3D"#999999">Patrick Maynard</font></div><div><font co=
-lor=3D"#999999"><a href=3D"http://patrickmaynard.com" target=3D"_blank">pat=
+lor=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"_blank">pat=
 rickmaynard.com</a><br></font></div><div><br></div></div></div></div></div>=
 </div></div></div>
-</blockquote></div><br clear=3D"all"><br><span class=3D"gmail_signature_pre=
-fix">-- </span><br><div dir=3D"ltr" class=3D"gmail_signature"><div dir=3D"l=
+</blockquote></div><br clear=3D"all"><br><span class=3D"<redacted>_signature_pre=
+fix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><div dir=3D"l=
 tr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div><br><=
 /div><div><font color=3D"#999999">Patrick Maynard</font></div><div><font co=
-lor=3D"#999999"><a href=3D"http://patrickmaynard.com" target=3D"_blank">pat=
+lor=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"_blank">pat=
 rickmaynard.com</a><br></font></div><div><br></div></div></div></div></div>=
 </div></div></div>
-</blockquote></div><br clear=3D"all"><br><span class=3D"gmail_signature_pre=
-fix">-- </span><br><div dir=3D"ltr" class=3D"gmail_signature"><div dir=3D"l=
+</blockquote></div><br clear=3D"all"><br><span class=3D"<redacted>_signature_pre=
+fix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><div dir=3D"l=
 tr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div><br><=
 /div><div><font color=3D"#999999">Patrick Maynard</font></div><div><font co=
-lor=3D"#999999"><a href=3D"http://patrickmaynard.com" target=3D"_blank">pat=
+lor=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"_blank">pat=
 rickmaynard.com</a><br></font></div><div><br></div></div></div></div></div>=
 </div></div></div>
-</blockquote></div><br clear=3D"all"><br><span class=3D"gmail_signature_pre=
-fix">-- </span><br><div dir=3D"ltr" class=3D"gmail_signature"><div dir=3D"l=
+</blockquote></div><br clear=3D"all"><br><span class=3D"<redacted>_signature_pre=
+fix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><div dir=3D"l=
 tr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div><br><=
 /div><div><font color=3D"#999999">Patrick Maynard</font></div><div><font co=
-lor=3D"#999999"><a href=3D"http://patrickmaynard.com" target=3D"_blank">pat=
+lor=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"_blank">pat=
 rickmaynard.com</a><br></font></div><div><br></div></div></div></div></div>=
 </div></div></div>
+</blockquote></div><div><br clear=3D"all"></div><br><span class=3D"<redacted>_si=
+gnature_prefix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><d=
+iv dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"=
+><div><br></div><div><font color=3D"#999999">Patrick Maynard</font></div><d=
+iv><font color=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"=
+_blank"><redacted>.com</a><br></font></div><div><br></div></div></div><=
+/div></div></div></div></div>
+</blockquote></div><div><br clear=3D"all"></div><br><span class=3D"<redacted>_si=
+gnature_prefix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><d=
+iv dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"=
+><div><br></div><div><font color=3D"#999999">Patrick Maynard</font></div><d=
+iv><font color=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"=
+_blank"><redacted>.com</a><br></font></div><div><br></div></div></div><=
+/div></div></div></div></div>
+</blockquote></div><div><br clear=3D"all"></div><br><span class=3D"<redacted>_si=
+gnature_prefix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><d=
+iv dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"=
+><div><br></div><div><font color=3D"#999999">Patrick Maynard</font></div><d=
+iv><font color=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"=
+_blank"><redacted>.com</a><br></font></div><div><br></div></div></div><=
+/div></div></div></div></div>
+</blockquote></div><div><br clear=3D"all"></div><br><span class=3D"<redacted>_si=
+gnature_prefix">-- </span><br><div dir=3D"ltr" class=3D"<redacted>_signature"><d=
+iv dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"=
+><div><br></div><div><font color=3D"#999999">Patrick Maynard</font></div><d=
+iv><font color=3D"#999999"><a href=3D"http://<redacted>.com" target=3D"=
+_blank"><redacted>.com</a><br></font></div><div><br></div></div></div><=
+/div></div></div></div></div>
 
---000000000000929880062498c9e2--
+--000000000000a0d35c062c51336f--
